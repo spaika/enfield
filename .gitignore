@@ -1,0 +1,17 @@
+_site/
+.sass-cache/
+.jekyll-metadata
+
+# Sublime Text
+
+# *.sublime-project
+# Project files should be checked into the repository, unless a significant
+# proportion of contributors will not be using Sublime Text
+
+*.sublime-workspace
+# Workspace files are user-specific
+
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+# Cache files for Sublime Text
